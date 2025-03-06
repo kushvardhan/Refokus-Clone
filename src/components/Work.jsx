@@ -14,6 +14,9 @@ function Work() {
         <div className='max-w-screen-xl mx-auto text-center'>
             <h1 className='text-[30vw] leading-none tracking-tight font-medium select-none'>work</h1>
         </div>
+        <div>
+          
+        </div>
     </div>
   )
 }
